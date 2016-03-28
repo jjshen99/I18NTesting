@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_template" label="App_I18N_1 Table" max_length="40" name="x_snc_app_i18n_1_table" type="collection"/>
+</database>

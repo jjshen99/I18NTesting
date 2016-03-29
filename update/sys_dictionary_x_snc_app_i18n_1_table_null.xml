@@ -30,7 +30,7 @@
         <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="收集">collection</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_snc_app_i18n_1_table</name>
@@ -52,7 +52,7 @@
         <sys_created_by>jj</sys_created_by>
         <sys_created_on>2016-03-28 17:56:38</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>8a7027b74f921200f474fe618110c75c</sys_id>
+        <sys_id>71a8e0884fe21200f474fe618110c7b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_app_i18n_1_table</sys_name>
         <sys_package display_value="App_I18N_1" source="x_snc_app_i18n_1">f9cfdf774f921200f474fe618110c798</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="App_I18N_1">f9cfdf774f921200f474fe618110c798</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_app_i18n_1_table_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-03-28 17:59:37</sys_updated_on>
+        <sys_updated_on>2016-03-28 23:14:59</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

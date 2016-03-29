@@ -17,7 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="模板" name="sys_template">7c2c49ce13b11200174473304244b0c7</super_class>
+        <super_class display_value="Template" name="sys_template">7c2c49ce13b11200174473304244b0c7</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>jj</sys_created_by>
         <sys_created_on>2016-03-28 17:56:37</sys_created_on>
